@@ -3,19 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkaufma1&label=Profile%20views&color=0e75b6&style=flat" alt="vkaufma1" /> </p>
 
-- 🔭 I’m currently working on **learning how to code**
+- 🔭 I’m currently working on **a graphic information tecnology degree at Arizona State University**
 
-- 🌱 I’m currently learning **HTML5**
+- 🌱 I’m currently learning **web authoring**
 
-- 🤝 I’m looking for help with **coding basics**
+- 🤝 I’m looking for help with **learning the coding basics**
 
-- 💬 Ask me about **visual design**
+- 💬 Ask me about **Chicago**
 
 - 📫 How to reach me **vkaufma1@asu.edu**
 
+- ⚡ Fun fact **I have two perfect cats**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/violet.kaufman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="violet.kaufman" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vkaufma1&show_icons=true&locale=en" alt="vkaufma1" /></p>
