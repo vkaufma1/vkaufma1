@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkaufma1&label=Profile%20views&color=0e75b6&style=flat" alt="vkaufma1" /> </p>
 
-- 🔭 I’m currently working on **a graphic information tecnology degree at Arizona State University**
+- 🔭 I’m currently working on **a graphic information technology degree at Arizona State University**
 
 - 🌱 I’m currently learning **web authoring**
 
