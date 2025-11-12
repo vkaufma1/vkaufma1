@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **a graphic information technology degree at Arizona State University**
 
-- 🌱 I’m currently learning **web authoring**
+- 🌱 I’m currently learning **Acessibility**
 
-- 🤝 I’m looking for help with **learning the coding basics**
+- 🤝 I’m looking for help with **Everything!**
 
-- 💬 Ask me about **Chicago**
+- 💬 Ask me about **my cats**
 
 - 📫 How to reach me **vkaufma1@asu.edu**
 
-- ⚡ Fun fact **I have two perfect cats**
+- ⚡ Fun fact **A squirrel has a greater bite force PSI than a great white shark**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
